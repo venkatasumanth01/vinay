@@ -1,0 +1,13 @@
+    select {
+    background:white;
+    height:43px;
+    width:200px;
+}
+.list{
+    display: flex;
+    height: 43px;
+    width: 330px;
+    background-color: white;
+    margin-left: 30px;
+    border-radius: 10px;
+}
